@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         else{
-            
+
             makeToast("Correct !!!  Try again");
 
             Random rand = new Random();
